@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning threejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email at lambda.obx@gmail.com
+- this is an edit version
 
 <!---
 epsilon-zulu/epsilon-zulu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
